@@ -26,7 +26,7 @@ public class Obj_movement : MonoBehaviour
     public float srping=10;
     // Start is called before the first frame update
 
-    //bool isHoes;
+    bool isHoes;
     void Start()
     {
         gameplay_Map_A = inputActionsA.FindActionMap("gameplay");
