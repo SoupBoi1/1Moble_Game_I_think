@@ -46,7 +46,7 @@ public class Obj_rewind : MonoBehaviour
         }
         if (point.Count > 0)
         {
-            print(point[0].postion);
+            //print(point[0].postion);
             gameObj.transform.position = point[0].postion;
             gameObj.transform.rotation = point[0].rotation;
             point.RemoveAt(0);

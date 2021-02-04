@@ -53,7 +53,7 @@ public class Obj_movement : MonoBehaviour
             {
                 moveit = GameObject.Find(hitData.rigidbody.name);
                 moveit.layer = 2;
-               print(moveit.name);
+               //print(moveit.name);
                 canmoveit = false;
                 if (moveit.name == "hoe")
                 {

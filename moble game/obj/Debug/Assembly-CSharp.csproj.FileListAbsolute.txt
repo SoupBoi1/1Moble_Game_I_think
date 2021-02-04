@@ -1,0 +1,2 @@
+C:\Users\sudip\OneDrive\Documents\unity\unity project\1Moble_Game_I_think\moble game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\sudip\OneDrive\Documents\unity\unity project\1Moble_Game_I_think\moble game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/testing mover.unity
+- path: Assets/Scenes/SEEDGROW TEST.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
